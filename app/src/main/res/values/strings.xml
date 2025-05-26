@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Flashcard Quiz</string>
+
+    <!-- Welcome Screen -->
+    <string name="welcome_message">Welcome to History Flashcard Quiz!\n\nTest your knowledge of historical facts with 5 true/false questions.</string>
+    <string name="start_quiz">Start Quiz</string>
+
+    <!-- Quiz Screen -->
+    <string name="true_text">True</string>
+    <string name="false_text">False</string>
+    <string name="next_question">Next</string>
+    <string name="correct">Correct!</string>
+    <string name="incorrect">Incorrect!</string>
+
+    <!-- Result Screen -->
+    <string name="score_text">Your score: %d/%d</string>
+    <string name="excellent_feedback">Excellent work! You know your history well!</string>
+    <string name="good_feedback">Good job! You know quite a bit about history!</string>
+    <string name="practice_feedback">Keep practicing to improve your historical knowledge!</string>
+    <string name="review_answers">Review Answers</string>
+    <string name="exit_app">Exit App</string>
+
+    <!-- Review Screen -->
+    <string name="review_title">Review Your Answers</string>
+</resources>
