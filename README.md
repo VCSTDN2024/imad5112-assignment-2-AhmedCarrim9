@@ -49,8 +49,6 @@ lint-check.yml	Validates Kotlin code style.
 unit-tests.yml	Runs JUnit tests on quiz logic.
 
 5. In conclusion
-
-5. Conclusion
 The Flashcard App successfully delivers an engaging learning tool for South African history, combining intuitive design with robust functionality. Key achievements include:
 •	Effective use of Kotlin for quiz logic and state management.
 •	Seamless integration with GitHub for collaborative development.
